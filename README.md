@@ -17,7 +17,7 @@
   <img align="center" alt="zico-PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50%;" src="https://pa1.narvii.com/6615/b8d6cc7be5cf70489d92e787c44c74f45209a1cd_hq.gif">
-  <div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <!-- <div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 </div>
 
 ##
